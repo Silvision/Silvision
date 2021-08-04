@@ -13,7 +13,8 @@ I'm currently a university student majoring in  <strong>Software Engineering.</s
 
 <br>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")](linkedin.com/in/richardmnguyen)
+
 <br>
 
 # Languages and Tools
@@ -42,8 +43,6 @@ I'm currently a university student majoring in  <strong>Software Engineering.</s
 
 
 
-
-[LinkedIn]: www.linkedin.com/in/richardmnguyen
 
 
 
