@@ -4,7 +4,7 @@
 
 </header>
 
-<h1>Hey there, I'm Richard 👋</h1>
+<h1>Hey there, I'm <a href="https://silvision.github.io/">Richard</a>👋</h1>
 I'm currently a university student majoring in  <strong>Software Engineering.</strong> I like working on either video games or mobile applications in my free time. I plan to learn a lot more languages and technologies such as Web Development. <br><br>
 
 
