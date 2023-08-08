@@ -14,7 +14,7 @@ I'm currently a university student majoring in  <strong>Software Engineering.</s
 
 <br>
 
-[![Website](https://img.shields.io/badge/-Website-lightgrey?style=for-the-badge)](https://silvision.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=for-the-badge)](https://silvision.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardmnguyen)
 
 
